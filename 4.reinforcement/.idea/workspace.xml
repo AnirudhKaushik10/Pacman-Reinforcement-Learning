@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8ee45de-9f30-4b34-a04a-521f4ba42b74" name="Default Changelist" comment="Fixed some parameters and moved GraphPlot to a separate file" />
+    <list default="true" id="d8ee45de-9f30-4b34-a04a-521f4ba42b74" name="Default Changelist" comment="Fixed some parameters and moved GraphPlot to a separate file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="7b8bfb9d-4ff5-4346-ae85-09d3469e05ce" name="Revert &quot;rectify q learning&quot;" comment="Revert &quot;rectify q learning&quot;&#10;&#10;This reverts commit edac9185" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/AnirudhKaushik10/Pacman-Reinforcement-Learning" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="21tQWPKuD5bfIOso4aAVrgZF3Zy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,6 +97,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1638771482514" />
+    <state x="368" y="36" key="FileChooserDialogImpl" timestamp="1639647207497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="36" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1639647207497" />
     <state x="192" y="42" key="MultipleFileMergeDialog" timestamp="1639626199848">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -100,17 +113,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="133" y="8" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1638771407860" />
-    <state x="416" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639626216931">
+    <state x="416" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639647021679">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="416" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1639626216931" />
-    <state x="281" y="7" width="718" height="666" key="find.popup" timestamp="1638763394690">
+    <state x="416" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1639647021679" />
+    <state x="281" y="7" width="718" height="666" key="find.popup" timestamp="1639647207853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="281" y="7" width="718" height="666" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1638763394690" />
-    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1638850093281">
+    <state x="281" y="7" width="718" height="666" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1639647207853" />
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1639647192611">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1638850093281" />
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1639647192611" />
   </component>
 </project>
