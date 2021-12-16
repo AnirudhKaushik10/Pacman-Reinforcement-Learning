@@ -1,12 +1,12 @@
 
-True Online Sarsa Lamda playing PowerGrid [Trained on lamda = 0.9 and Training episodes = 500] => 
+### True Online Sarsa Lamda playing PowerGrid [Trained on lamda = 0.9 and Training episodes = 500] => 
 
 ![alt text](https://github.com/AnirudhKaushik10/Pacman-Reinforcement-Learning/blob/master/pacman_powerGrid.gif "Logo Title Text 1")
 
 
 
 
-To run pacman world use the following command
+### To run pacman world use the following command
 
 python pacman.py -p TrueOnlineSarsaLamda -a extractor=SimpleExtractor -x 500 -n 550 -l originalClassic
 
@@ -21,7 +21,7 @@ Options:
     -q: Quiet Mode without graphics (optional)
 
 
-For gridWorld :
+### For gridWorld :
 
 python gridworld.py -a q -k 10 -n 0.2 -g MazeGrid -e 0.5 -w 100
 
@@ -33,6 +33,8 @@ Options :
     -k : numer of training iterations
     -w : window size
     -g : Grid [BookGrid, BridgeGrid, CliffGrid, MazeGrid] 
+    
+### TrueOnline SARSA Lambda Agent converges much faster than Approximate Q Agent and Episodic Semi-Gradient SARSA Agent, since each it utilizes eligibilty traces to update the features for all previous steps with a decay factor, rather than only updating the immediate previous step as done in other agents. TrueOnline SARSA Lambda Agent is implemented as given on page number 300 in the book Reinforcement Learning: An Introduction by Sutton & Barto
       
       
       
