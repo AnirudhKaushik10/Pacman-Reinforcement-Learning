@@ -19,12 +19,12 @@ python gridworld.py -a q -k 10 -n 0.2 -g MazeGrid -e 0.5 -w 100
 
 Options :
 
-			-a : Agents ( q for q learning, s for sarsa agent, slamda for sarsa lamda agent)
-			-n : for noise (probability of taking a random action instead of the intended action)
-			-e : for epsilon (epsilon probability for taking a random action while training instead of the greedy action)
-			-k : numer of training iterations
-      -w : window size
-      -g : Grid [BookGrid, BridgeGrid, CliffGrid, MazeGrid] 
+-a : Agents ( q for q learning, s for sarsa agent, slamda for sarsa lamda agent)
+-n : for noise (probability of taking a random action instead of the intended action)
+-e : for epsilon (epsilon probability for taking a random action while training instead of the greedy action)
+-k : numer of training iterations
+-w : window size
+-g : Grid [BookGrid, BridgeGrid, CliffGrid, MazeGrid] 
       
       
       
