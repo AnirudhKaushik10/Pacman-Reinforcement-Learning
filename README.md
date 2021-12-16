@@ -1,3 +1,9 @@
+
+![alt text](https://github.com/AnirudhKaushik10/Pacman-Reinforcement-Learning/blob/master/pacman_powerGrid.gif "Logo Title Text 1")
+
+
+
+
 To run pacman world use the following command
 
 python pacman.py -p TrueOnlineSarsaLamda -a extractor=SimpleExtractor -x 500 -n 550 -l originalClassic
