@@ -1,4 +1,6 @@
 
+True Online Sarsa Lamda playing PowerGrid [Trained on lamda = 0.9 and Training episodes = 500] => 
+
 ![alt text](https://github.com/AnirudhKaushik10/Pacman-Reinforcement-Learning/blob/master/pacman_powerGrid.gif "Logo Title Text 1")
 
 
