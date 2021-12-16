@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8ee45de-9f30-4b34-a04a-521f4ba42b74" name="Default Changelist" comment="Fixed some parameters and moved GraphPlot to a separate file" />
+    <list id="7b8bfb9d-4ff5-4346-ae85-09d3469e05ce" name="Revert &quot;rectify q learning&quot;" comment="Revert &quot;rectify q learning&quot;&#10;&#10;This reverts commit edac9185" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="21tQWPKuD5bfIOso4aAVrgZF3Zy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8ee45de-9f30-4b34-a04a-521f4ba42b74" name="Default Changelist" comment="" />
+      <created>1638757934354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638757934354</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fixed some parameters and moved GraphPlot to a separate file">
+      <created>1638771397564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638771397564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed some parameters and moved GraphPlot to a separate file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some parameters and moved GraphPlot to a separate file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" maximized="true" key="DiffContextDialog" timestamp="1638771482514">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1638771482514" />
+    <state x="192" y="42" key="MultipleFileMergeDialog" timestamp="1639626199848">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="192" y="42" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1639626199848" />
+    <state x="383" y="0" key="VCS.ChangeListViewerDialog" timestamp="1639626174878">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="VCS.ChangeListViewerDialog/0.0.1280.680@0.0.1280.680" timestamp="1639626174878" />
+    <state x="133" y="8" key="Vcs.Push.Dialog.v2" timestamp="1638771407860">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="133" y="8" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1638771407860" />
+    <state x="416" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639626216931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="416" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1639626216931" />
+    <state x="281" y="7" width="718" height="666" key="find.popup" timestamp="1638763394690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="281" y="7" width="718" height="666" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1638763394690" />
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1638850093281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1638850093281" />
+  </component>
+</project>
