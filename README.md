@@ -34,7 +34,9 @@ Options :
     -w : window size
     -g : Grid [BookGrid, BridgeGrid, CliffGrid, MazeGrid] 
     
-### TrueOnline SARSA Lambda Agent converges much faster than Approximate Q Agent and Episodic Semi-Gradient SARSA Agent, since each it utilizes eligibilty traces to update the features for all previous steps with a decay factor, rather than only updating the immediate previous step as done in other agents. TrueOnline SARSA Lambda Agent is implemented as given on page number 300 in the book Reinforcement Learning: An Introduction by Sutton & Barto
+### Algorithmic Information
+
+TrueOnline SARSA Lambda Agent converges much faster than Approximate Q Agent and Episodic Semi-Gradient SARSA Agent, since each it utilizes eligibilty traces to update the features for all previous steps with a decay factor, rather than only updating the immediate previous step as done in other agents. TrueOnline SARSA Lambda Agent is implemented as given on page number 300 in the book Reinforcement Learning: An Introduction by Sutton & Barto
       
       
       
